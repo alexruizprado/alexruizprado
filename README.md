@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<p align="center">
+  <a href="https://twitter.com/alexruizprado"><img src="https://img.shields.io/twitter/follow/alexruizprado?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/alexruizprado"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 <!--
 **alexruizprado/alexruizprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
