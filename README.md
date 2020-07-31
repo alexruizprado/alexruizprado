@@ -1,5 +1,5 @@
-### Hi there 👋
 <p align="center">
+<img src="https://raw.githubusercontent.com/alexruizprado/alexruizprado/master/helloworld.svg">
 	<a href="https://twitter.com/alexruizprado"><img src="https://img.shields.io/twitter/follow/alexruizprado?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/alexruizprado"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.raulruizstack.com"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwww.raulruizstack.com" alt="Personal Blog"></a>
